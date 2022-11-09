@@ -1,0 +1,1 @@
+export const animes_url = 'http://localhost:3000/api/workout/' ;
